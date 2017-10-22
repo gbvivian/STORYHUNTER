@@ -1,5 +1,3 @@
-#STORYHUNTER
-
 ## Inspiration
 Explore your city, make new friends, and immerse yourself in this interactive, story-telling Marvel experience. 
 We were inspired to break down barriers for connecting Marvel fans across cities by using Marvel API and Google Maps API. 

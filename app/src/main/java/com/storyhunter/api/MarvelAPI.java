@@ -1,9 +1,11 @@
+package com.storyhunter.api;
+
+import com.storyhunter.model.EventResponse;
+
 import retrofit2.Call;
 import retrofit2.http.GET;
 
-package com.storyhunter.api;
-
 public interface MarvelAPI {
-    @GET("event")
+    @GET("/exampleEvent")
     Call<EventResponse> event();
 }

@@ -1,6 +1,6 @@
-package com.storyhunter.api;
+package com.storyhunter.model;
 
-import java.io.serializable;
+import java.io.Serializable;
 
 public class EventResponse implements Serializable {
     public final int status_code;
